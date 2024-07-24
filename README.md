@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Love's Cloud Journey
 
-[✍️ Introduce yourself]
+In 2022 I completed the Comptia A+ and aquired a position as a Help Desk Anaylst. Currently I am upskilling in Cloud and UX/UI design
 
-[✍️ Tell us why you started this challenge]
+After aquiring my AWS Cloud Practionioner I really wanted to find reasons to work in the cloud more.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+At the end of this challenge I will use my experience to join a tech department utlizing my new skills.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- Love's Twitter] https://twitter.com/username )
+- Love's LinkedIn ( https://www.linkedin.com/in/LoveMcNill )
 
 ## Stepping out the door
 
